@@ -20,8 +20,8 @@ img {
 /* Style rules for header content */
 header {
     text-align: center;
-    font.size: 3em;
-    color: #3736184;
+    font-size: 3em;
+    color: #373684;
 }
 
 header h1 {
@@ -55,7 +55,7 @@ nav li a {
 /* Style rules for main content */
 main {
     padding: 2%;
-    background-color: #e55e9fc;
+    background-color: #e5e9fc;
     overflow: auto;
     font-family: Verdana, Arial, sans-serif;
 }
